@@ -16,19 +16,38 @@ O objetivo deste repositório é compartilhar a evolução dos meus conhecimento
 Este é um projeto pequeno e agradável para praticar o manuseio de interações do usuário e a atualização do DOM. Perfeito para qualquer um que tenha aprendido o básico do JavaScript!
 
 #### LINGUAGENS USADAS NESSE PROJETO.
+
 - HTML
 - CSS
 - JavaScript
+
 ---
 
-### 2. [Cartão de visualização do blog](https://cartao-de-visualizacao-do-blog.vercel.app/)
+### 2. [FAQ acordeão]()
+
+![FAQ acordeão](./Pergunta%20Frequentes/assets/img/screenshot.png)
+
+Neste desafio, você construirá um acordeão de FAQ. Este é um padrão de front-end extremamente comum, então é uma excelente oportunidade para praticar um pouco!
+
+#### LINGUAGENS USADAS NESSE PROJETO.
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### 3. [Cartão de visualização do blog](https://cartao-de-visualizacao-do-blog.vercel.app/)
 
 ![Cartão de visualização do blog](./Cartão%20de%20visualização%20do%20blog/assets/images/screenshot.png)
 
 Este desafio somente com HTML e CSS é um projeto perfeito para iniciantes que querem se familiarizar com os fundamentos de HTML e CSS, como a estrutura HTML e o modelo de caixa.
+
 #### LINGUAGENS USADAS NESSE PROJETO.
+
 - HTML
 - CSS
+
 ---
 
 ## Como Usar
