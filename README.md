@@ -8,7 +8,20 @@ O objetivo deste repositório é compartilhar a evolução dos meus conhecimento
 
 ## Projetos
 
-### 1. [Cartão de visualização do blog](https://cartao-de-visualizacao-do-blog.vercel.app/)
+### 1. [Componente de classificação interativa]()
+
+![Componente de classificação interativa](./Componente%20de%20classificação%20interativa/assets/img/screenshot%2001.png)
+![Componente de classificação interativa](./Componente%20de%20classificação%20interativa/assets/img/screenshot.png)
+
+Este é um projeto pequeno e agradável para praticar o manuseio de interações do usuário e a atualização do DOM. Perfeito para qualquer um que tenha aprendido o básico do JavaScript!
+
+#### LINGUAGENS USADAS NESSE PROJETO.
+- HTML
+- CSS
+- JavaScript
+---
+
+### 2. [Cartão de visualização do blog](https://cartao-de-visualizacao-do-blog.vercel.app/)
 
 ![Cartão de visualização do blog](./Cartão%20de%20visualização%20do%20blog/assets/images/screenshot.png)
 
