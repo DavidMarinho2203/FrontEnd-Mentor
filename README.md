@@ -8,7 +8,7 @@ O objetivo deste repositório é compartilhar a evolução dos meus conhecimento
 
 ## Projetos
 
-### 1. [Cartão de visualização do blog]()
+### 1. [Cartão de visualização do blog](https://cartao-de-visualizacao-do-blog.vercel.app/)
 
 ![Cartão de visualização do blog](./Cartão%20de%20visualização%20do%20blog/assets/images/screenshot.png)
 
