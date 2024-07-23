@@ -8,12 +8,12 @@ O objetivo deste repositório é compartilhar a evolução dos meus conhecimento
 
 ## Projetos
 
-### 1. [Componente de classificação interativa](https://front-end-mentor-sandy.vercel.app/)
+### 1. Componente de classificação interativa
 
 ![Componente de classificação interativa](./Componente%20de%20classificação%20interativa/assets/img/screenshot%2001.png)
 ![Componente de classificação interativa](./Componente%20de%20classificação%20interativa/assets/img/screenshot.png)
 
-Este é um projeto pequeno e agradável para praticar o manuseio de interações do usuário e a atualização do DOM. Perfeito para qualquer um que tenha aprendido o básico do JavaScript!
+Este é um projeto pequeno e agradável para praticar o manuseio de interações do usuário e a atualização do DOM. Perfeito para qualquer um que tenha aprendido o básico do JavaScript.
 
 #### LINGUAGENS USADAS NESSE PROJETO.
 
@@ -23,7 +23,21 @@ Este é um projeto pequeno e agradável para praticar o manuseio de interações
 
 ---
 
-### 2. [FAQ acordeão](https://front-end-mentor-f2bu.vercel.app/)
+### 2. Componente de resumo de resultados
+
+![Componente de resumo de resultados](./Componente%20de%20resumo%20de%20resultados/assets/img/screenshot.png)
+
+Este desafio tem algo para todos. É um projeto somente HTML e CSS, mas também fornecemos um arquivo JSON dos resultados do teste para qualquer um que queira praticar JS.
+
+#### LINGUAGENS USADAS NESSE PROJETO.
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### 3. FAQ acordeão
 
 ![FAQ acordeão](./Pergunta%20Frequentes/assets/img/screenshot.png)
 
@@ -37,7 +51,7 @@ Neste desafio, você construirá um acordeão de FAQ. Este é um padrão de fron
 
 ---
 
-### 3. [Cartão de visualização do blog](https://cartao-de-visualizacao-do-blog.vercel.app/)
+### 4. Cartão de visualização do blog
 
 ![Cartão de visualização do blog](./Cartão%20de%20visualização%20do%20blog/assets/images/screenshot.png)
 
@@ -53,7 +67,7 @@ Este desafio somente com HTML e CSS é um projeto perfeito para iniciantes que q
 ## Como Usar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/frontend-mentor-exercicios.git
+   git clone https://github.com/DavidMarinho2203/FrontEnd-Mentor
 
 2. Navegue até o diretório do projeto desejado:
    cd frontend-mentor-exercicios/nome-do-projeto
